@@ -31,7 +31,7 @@ Este projeto implementa testes automatizados utilizando **Cypress** para validar
 ## 🎯 Como Executar o Projeto?
 1️⃣ Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/serverest-tests.git
+git clone https://github.com/ggvinos/cypress-performatico.git
 ```
 
 2️⃣ Instale as dependências:
@@ -49,12 +49,5 @@ npx cypress open
 npx cypress run
 ```
 
-## 📸 Demonstração dos Testes
-Caso deseje destacar visualmente, adicione prints da execução dos testes aqui.
 
-## 🔗 Repositório no GitHub
-[Acesse o repositório aqui](https://github.com/seuusuario/serverest-tests)
-
-## 📜 Licença
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
